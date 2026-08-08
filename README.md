@@ -2,3 +2,4 @@
 ## Team members: 
 ### 1. Dao nguyen
 ### 2. Hung Pham
+### 3. Nguyen Gia Huy
